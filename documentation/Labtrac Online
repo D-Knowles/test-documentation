@@ -1,0 +1,90 @@
+#Labtrac Online
+
+You can  access Labtrac Online by going to app.labtrac.com or signing in directly from Labtrac.
+
+###First sign in
+
+When you sign into Labtrac online for he first time you will use your email address and the automatically generated password provided by Labtrac Support.
+
+To change your password follow these steps:
+
+* Click on your name in the top right.
+
+Image LO_2
+
+* Select **Change Password**
+
+* Enter the automatically generated password and your new password.
+
+* Click **Reset**
+
+###Adding New Users
+
+To add a new user follow these steps:
+
+* Go to Settings
+
+* Click **New**
+
+Image LO_4
+
+* Enter the new users infomation in the right hand bar.
+
+Image LO_5
+
+* Select the type of user you wish them to be.
+
+	- **Lab Admin** - Complete access to the Laboratory.
+	
+	- **Office User** - Full access to Cases, Dentists, Inventory, and other office tasks.
+
+	- **Finance User** - All **Office User** permissions plus account tasks.
+
+	- **Technician** - Limited office features with no financial infomation.
+
+* Click **Save**
+
+The user can then log in with their own email and password.
+
+###Dashboard
+
+The landing page for Labtrac Online is the **Dashboard**.
+
+This shows various reports for you Lab including:
+
+* Incoming Work 
+* Work Due Out
+* Work Due Out Today
+* Late Jobs
+
+It also shows the **Synced** date. 
+
+*If this date is not recent it means that your data isnt being synced please get in touch with Labtrac if this is the case.*
+
+Image LO_11
+
+###Cases
+
+View your full case history, including all stages, and add any files to be viewed accross all devices.
+
+Job numbers are the same as your Desktop version, however, they do have an additional number at the end to indicate which stage the job is on. (EG. J005245:1, J005245:2 etc)
+
+Image LO_7
+
+To add an image or file click **Files** - **Add Files** then select the file to be uploaded from your PC.
+
+###Dentists
+
+Here you can view:
+
+* Contact Information
+
+* Practice Information
+
+* All additional information and notes
+
+* A timeline of the Dentists history
+
+Image LO_9
+
+
